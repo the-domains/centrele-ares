@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Centrele ARES]]></title>
         <description><![CDATA[Centrele ARES]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/centrele-ares/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 08:17:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 08:28:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/centrele-ares/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>AVEM CEI MAI RENUMITI CARDIOLOGI DIN ROMANIA </p>]]></description>
+            <link>https://thegrid.ai/centrele-ares/hkjkjkjjk/index.html</link>
+            <guid isPermaLink="false">842f53b2-2286-4843-a11e-3b3e36ad94be</guid>
+            <pubDate>Sat, 02 Apr 2016 08:28:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Test </p>]]></description>
-            <link>undefinedad7428b4-b5e3-4b79-8628-549c383168a5/index.html</link>
+            <link>https://thegrid.ai/centrele-ares/ad7428b4-b5e3-4b79-8628-549c383168a5/index.html</link>
             <guid isPermaLink="false">ad7428b4-b5e3-4b79-8628-549c383168a5</guid>
             <pubDate>Sat, 02 Apr 2016 08:17:22 GMT</pubDate>
         </item>
